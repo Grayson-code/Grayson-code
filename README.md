@@ -1,4 +1,4 @@
-<h1 align="center">Hello mate am Northern Star aka the holy cat</h1>
+<h1 align="center">Hello mate, am Northern Star aka the holy cat</h1>
 <h3 align="center">a artist and programmer doing anything.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grayson-code&label=Profile%20views&color=0e75b6&style=flat" alt="grayson-code" /> </p>
