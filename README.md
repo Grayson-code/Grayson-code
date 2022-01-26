@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **am a minecraft server owner!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
