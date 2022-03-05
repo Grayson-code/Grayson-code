@@ -1,6 +1,6 @@
 <h1 align="center">Hello mate, am Northern Star aka the holy cat</h1>
 <h3 align="center">a artist and programmer doing anything.</h3>
-<h5 align="center">alt not new but new account! previeos account got kaboomed by doxxers RIP</h5>
+<h5 align="center">alt not new but new account! previous account got kaboomed by doxxers RIP</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grayson-code&label=Profile%20views&color=0e75b6&style=flat" alt="grayson-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grayson-code" alt="grayson-code" /></a> </p>
