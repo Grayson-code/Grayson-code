@@ -25,4 +25,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=greetings-bot&theme=tokyonight" alt="grayson-code Current project"/>
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode" alt="grayson-code Timeline"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode&theme=tokyonight" alt="grayson-code Timeline"/>
