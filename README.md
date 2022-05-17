@@ -3,9 +3,9 @@
 <h5 align="center">alt not new but new account! previous account got kaboomed by doxxers RIP</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grayson-code&label=Profile%20views&color=0e75b6&style=flat" alt="grayson-code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grayson-code" alt="grayson-code" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grayson-code" alt="grayson-code" /></a> </p> -->
 
-![Grayson-code's stats](https://github-readme-stats.vercel.app/api?username=Grayson-code)
+![Grayson-code's stats](https://github-readme-stats.vercel.app/api?username=Grayson-code&theme=tokyonight)
 
 
 
