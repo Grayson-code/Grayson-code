@@ -20,9 +20,9 @@
  <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayson-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="grayson-code" />  </p>
 </p>
-
+<div>
 <h2> Current Project </h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=greetings-bot&theme=tokyonight" alt="grayson-code Current project"/>
-
-<h2> Timelines </h2>
+</div>
+Timelines
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=grayson-code" alt="grayson-code Timeline"/>
