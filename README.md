@@ -19,8 +19,8 @@
 
 <p align="left">
  <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayson-code&show_icons=true&locale=en&layout=compact" alt="grayson-code" />  </p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayson-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="grayson-code" />  </p>
 </p>
 
-<h2> Top Repositories </h2>
-![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=cmc-checker)
+<h2> Current Project </h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=greetings-bot&theme=tokyonight" alt="grayson-code Current project"/>
