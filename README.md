@@ -25,4 +25,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=greetings-bot&theme=tokyonight" alt="grayson-code Current project"/>
 
 <h2> Timelines </h2>
-<img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod%theme=tokyonight" alt="grayson-code Timeline"/>
+<img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=grayson-code&theme=tokyonight" alt="grayson-code Timeline"/>
