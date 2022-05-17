@@ -6,7 +6,8 @@
 
 ![Grayson-code's stats](https://github-readme-stats.vercel.app/api?username=Grayson-code&theme=tokyonight)
 
-
+<h2> Timeline </h2>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode&theme=tokyonight" alt="grayson-code Timeline"/>
 
 - 🌱 I’m currently learning **C and SQL**
 
@@ -27,6 +28,5 @@
 
 
 
-<h2> Timeline </h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode&theme=tokyonight" alt="grayson-code Timeline"/>
+
 
