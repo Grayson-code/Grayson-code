@@ -17,7 +17,7 @@
 
 
 
-<p align="left">
+<p align="right">
  <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayson-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="grayson-code" />  </p>
 </p>
