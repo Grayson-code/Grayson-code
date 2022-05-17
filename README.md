@@ -24,5 +24,6 @@
 <h2> Current Project & Timeline </h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=greetings-bot&theme=tokyonight" alt="grayson-code Current project"/>
 </div>
-
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode&theme=tokyonight" alt="grayson-code Timeline"/>
+</div>
