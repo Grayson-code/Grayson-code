@@ -4,10 +4,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grayson-code" alt="grayson-code" /></a> </p> -->
 
-![Grayson-code's stats](https://github-readme-stats.vercel.app/api?username=Grayson-code&theme=tokyonight&layout=compact)
+![Grayson-code's stats](https://github-readme-stats.vercel.app/api?username=Grayson-code&theme=tokyonight)
 
-<h2> Timeline </h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode&theme=tokyonight" alt="grayson-code Timeline"/>
 
 - 🌱 I’m currently learning **C and SQL**
 
@@ -27,6 +25,7 @@
 </div>
 ![Grayson-code's stats](https://github-readme-stats.vercel.app/api?username=Grayson-code&theme=tokyonight&layout=compact)
 
-
+<h2> Timeline </h2>
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode&theme=tokyonight&layout=compact" alt="grayson-code Timeline"/>
 
 
