@@ -20,10 +20,10 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayson-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="grayson-code" />  </p>
 </p>
 <div>
-<h2> Current Project </h2>
+<!-- <h2> Current Project </h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=greetings-bot&theme=tokyonight" alt="grayson-code Current project"/>
-</div>
-<!-- <h2> Timeline </h2>
+</div> -->
+<h2> Timeline </h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=graysoncode&theme=tokyonight&layout=compact" alt="grayson-code Timeline"/>
- -->
+
 
