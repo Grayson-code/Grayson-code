@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Grayson-code](https://github.com/Grayson-code)
 
-- 📫 How to reach me **northernstarmusic10@gmail.com OR in discord Northern_Star#1394**
+- 📫 northernstarmusic10@gmail.com 
+- 💬 Northern_Star#1394
 
 
 
