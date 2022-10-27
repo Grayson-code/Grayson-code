@@ -7,7 +7,7 @@
 ![Grayson-code's stats](https://github-readme-stats.vercel.app/api?username=Grayson-code&theme=tokyonight)
 
 
-- 🌱 I’m currently learning **C and SQL**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Grayson-code](https://github.com/Grayson-code)
 
