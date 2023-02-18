@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Grayson-code](https://github.com/Grayson-code)
 
-- 📫 northernstarmusic10@gmail.com 
 - 💬 Northern_Star#1394
 
 
