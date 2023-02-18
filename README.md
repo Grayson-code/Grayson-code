@@ -19,6 +19,4 @@
  <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayson-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="grayson-code" />  </p>
 </p>
-![Metrics](/github-metrics.svg)
-
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
