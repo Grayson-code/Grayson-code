@@ -19,12 +19,6 @@
  <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grayson-code&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="grayson-code" />  </p>
 </p>
-<div>
- <h2> Contribution Graph </h2>
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=grayson-code&theme=react-dark" alt="grayson-code contribution graph"/>
-<!-- <h2> Current Project </h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Grayson-code&repo=greetings-bot&theme=tokyonight" alt="grayson-code Current project"/>
-</div> -->
 ![Metrics](/github-metrics.svg)
 
 
