@@ -16,6 +16,9 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: metrics.base.svg
+        user: Grayson-code
+        template: classic
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, activity, community, repositories, metadata
         plugin_achievements: yes
+        
